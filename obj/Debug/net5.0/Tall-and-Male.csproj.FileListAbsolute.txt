@@ -1,0 +1,16 @@
+/home/crazyvibes07/Programming/C#/Tall-and-Male/bin/Debug/net5.0/Tall-and-Male
+/home/crazyvibes07/Programming/C#/Tall-and-Male/bin/Debug/net5.0/Tall-and-Male.deps.json
+/home/crazyvibes07/Programming/C#/Tall-and-Male/bin/Debug/net5.0/Tall-and-Male.runtimeconfig.json
+/home/crazyvibes07/Programming/C#/Tall-and-Male/bin/Debug/net5.0/Tall-and-Male.runtimeconfig.dev.json
+/home/crazyvibes07/Programming/C#/Tall-and-Male/bin/Debug/net5.0/Tall-and-Male.dll
+/home/crazyvibes07/Programming/C#/Tall-and-Male/bin/Debug/net5.0/ref/Tall-and-Male.dll
+/home/crazyvibes07/Programming/C#/Tall-and-Male/bin/Debug/net5.0/Tall-and-Male.pdb
+/home/crazyvibes07/Programming/C#/Tall-and-Male/obj/Debug/net5.0/Tall-and-Male.csproj.AssemblyReference.cache
+/home/crazyvibes07/Programming/C#/Tall-and-Male/obj/Debug/net5.0/Tall-and-Male.GeneratedMSBuildEditorConfig.editorconfig
+/home/crazyvibes07/Programming/C#/Tall-and-Male/obj/Debug/net5.0/Tall-and-Male.AssemblyInfoInputs.cache
+/home/crazyvibes07/Programming/C#/Tall-and-Male/obj/Debug/net5.0/Tall-and-Male.AssemblyInfo.cs
+/home/crazyvibes07/Programming/C#/Tall-and-Male/obj/Debug/net5.0/Tall-and-Male.csproj.CoreCompileInputs.cache
+/home/crazyvibes07/Programming/C#/Tall-and-Male/obj/Debug/net5.0/Tall-and-Male.dll
+/home/crazyvibes07/Programming/C#/Tall-and-Male/obj/Debug/net5.0/ref/Tall-and-Male.dll
+/home/crazyvibes07/Programming/C#/Tall-and-Male/obj/Debug/net5.0/Tall-and-Male.pdb
+/home/crazyvibes07/Programming/C#/Tall-and-Male/obj/Debug/net5.0/Tall-and-Male.genruntimeconfig.cache
